@@ -1,2 +1,2 @@
 # BORCELLE-CONFEITARIA
-Trabalho de faculdade usando React native
+Desenvolvido em React native
